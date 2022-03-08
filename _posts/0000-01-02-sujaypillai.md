@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+We will never know what memories we had as children and we will never remember them.
 Use the left arrow to go back!
